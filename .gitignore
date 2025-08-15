@@ -1,1 +1,3 @@
 data/
+train_processed.csv
+val_processed.csv
